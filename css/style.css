@@ -9,9 +9,18 @@ header{
     background-color: lightblue;
     width: 100%;
     height: 100px;
+    margin-bottom: 10px;
 }
 
 #img-logo{
     width: 200px;
     margin-top: 50px;
+}
+
+.text-gray{
+    color: gray;
+}
+
+.text-blue{
+    color: blue;
 }
