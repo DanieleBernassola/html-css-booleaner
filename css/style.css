@@ -5,7 +5,7 @@
 }
 
 .container{
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 header{
@@ -52,4 +52,20 @@ header{
 
 .bg-lightblue{
     background-color: lightblue;
+}
+
+.bg-img{
+    height: 150px;
+    width: 250px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 10px;
+}
+
+#bg-monitor{
+    background-image: url(../img/monitor.jpg);
+}
+
+#bg-graph{
+    background-image: url(../img/graph.jpg);
 }
