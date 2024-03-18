@@ -35,3 +35,21 @@ header{
 .fix{
     padding-left: 20px;
 }
+
+.table{
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.text-white{
+    color: white;
+}
+
+.bg-blue{
+    background-color: aqua;
+}
+
+.bg-lightblue{
+    background-color: lightblue;
+}
