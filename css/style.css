@@ -27,3 +27,11 @@ header{
 .text-blue{
     color: blue;
 }
+
+.highlight{
+    background-color: yellow;
+}
+
+.fix{
+    padding-left: 20px;
+}
